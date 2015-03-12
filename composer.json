@@ -1,0 +1,5 @@
+{
+    "require": {
+        "phly/http": "dev-master"
+    }
+}
